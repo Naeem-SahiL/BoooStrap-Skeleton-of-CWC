@@ -1,0 +1,50 @@
+.myrow{
+    padding: 5px;
+}
+.mycolumn{
+    padding: 2px;
+}
+.topheader{
+    border-bottom: 1px solid #ebebeb;
+    font-size: 0.89rem;
+    font-weight: 600;
+}
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+    background-color: #004784;
+}
+nav ul li a{
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+/* START: footer */
+.full-footer{
+    background-color: #222f3e;
+    
+}
+
+.top-footer p{
+    color: white;
+}
+.top-footer a{
+    color: white;
+    font-weight: 600;
+}
+.top-footer h3{
+    color: white;
+   
+}
+.top-footer ul{
+    color: white;
+   
+}
+
+.bottom-footer{
+    background-color:#192A56;
+}
+.bottom-footer p{
+    color: white;
+
+}
+/*  END: footer */
